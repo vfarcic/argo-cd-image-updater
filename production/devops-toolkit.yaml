@@ -6,7 +6,7 @@ metadata:
   finalizers:
     - resources-finalizer.argocd.argoproj.io
   annotations:
-    repoURL: argocd-image-updater.argoproj.io: vfarcic/devops-toolkit
+    argocd-image-updater.argoproj.io: vfarcic/devops-toolkit
 spec:
   project: production
   source:
