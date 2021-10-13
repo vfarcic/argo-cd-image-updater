@@ -10,7 +10,7 @@ spec:
   source:
     repoURL: https://github.com/vfarcic/argo-cd-image-updater
     targetRevision: HEAD
-    path: kustomize
+    path: kustomize/overlays/production
   destination:
     server: https://kubernetes.default.svc
     namespace: production
