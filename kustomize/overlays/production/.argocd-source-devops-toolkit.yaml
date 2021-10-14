@@ -1,3 +1,0 @@
-kustomize:
-  images:
-  - vfarcic/devops-toolkit:1.2.3
