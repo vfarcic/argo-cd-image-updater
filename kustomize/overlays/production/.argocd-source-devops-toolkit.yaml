@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - vfarcic/devops-toolkit:99999999
